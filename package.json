@@ -4,13 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "kraken-node",
+    "start": "kraken-node run",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravelinx22/KrakenClientExample.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravelinx22/KrakenClientExample/issues"
+  },
+  "homepage": "https://github.com/ravelinx22/KrakenClientExample#readme",
   "dependencies": {
-    "kraken-node": "^1.0.6"
+    "kraken-node": "^1.0.12"
   }
 }
