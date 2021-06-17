@@ -1,6 +1,6 @@
 Feature: My feature buenas
 
-@user1 @web
+@user1 @mobile
 Scenario: My scenario 1
   Given I buenas1
   When I wait for 5 seconds
